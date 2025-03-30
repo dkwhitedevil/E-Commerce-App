@@ -16,7 +16,7 @@ This is a JavaFX-based E-Commerce platform that enables users to browse, add to 
 - **IDE:** IntelliJ IDEA / Eclipse / NetBeans
 
 ## Database Configuration
-Ensure you have Oracle Database installed and configured. Update the database connection details in the Java code:
+Ensure you have Oracle Database installed and configured. 
 
 
 ## Setup Instructions
