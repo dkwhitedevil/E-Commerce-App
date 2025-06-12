@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # E-Commerce: An Online Product Sales Platform
 
 ## Project Description
@@ -34,7 +33,3 @@ Ensure to have Oracle Database installed and configured.
 
 
 
-
-=======
-# E-Commerce-App-
->>>>>>> b71e7810546886ea517d339140e05f808d8e9be2
