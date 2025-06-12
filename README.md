@@ -22,7 +22,7 @@ Ensure to have Oracle Database installed and configured.
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/HariPad2005/E-Commerce.git
+   git clone https://github.com/dkwhitedevil/E-Commerce-App-.git
    ```
 2. Open the project in preferred IDE.
 3. Ensure to have the Oracle JDBC driver (`ojdbc8.jar`) added to the classpath.
